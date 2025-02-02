@@ -1,0 +1,1 @@
+func -o output.fif -SPA wallet_v5.fc imports/stdlib.fc
